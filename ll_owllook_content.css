@@ -227,4 +227,8 @@ pre {
         font-size: 50px;
         margin-top: 60px;
     }
+    
+    .show-content {
+        font-size: 35px !important;
+    }
 }
